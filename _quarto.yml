@@ -4,7 +4,8 @@ project:
 
 website:
   navbar:
-    logo: images/logo.png
+    logo: images/icon.svg
+  favicon: images/icon.svg
 
 format:
   datapage-html:
